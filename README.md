@@ -72,7 +72,7 @@ plt.imshow(image_dilate1, 'gray')
 ## Output:
 
 ### Display the input Image
-<br>![image]![download](https://user-images.githubusercontent.com/70016683/235285567-67d80848-c7dc-42b5-852f-e8f62f77cd52.png)
+<br>![download](https://user-images.githubusercontent.com/70016683/235285567-67d80848-c7dc-42b5-852f-e8f62f77cd52.png)
 
 
 <br>
@@ -82,7 +82,7 @@ plt.imshow(image_dilate1, 'gray')
 <br>
 
 ### Display the Eroded Image
-<br>![image]![download (1)](https://user-images.githubusercontent.com/70016683/235285579-ea996e26-426a-4ecf-8ad0-38396abfb8b0.png)
+<br>![download (1)](https://user-images.githubusercontent.com/70016683/235285579-ea996e26-426a-4ecf-8ad0-38396abfb8b0.png)
 
 
 <br>
@@ -92,7 +92,7 @@ plt.imshow(image_dilate1, 'gray')
 <br>
 
 ### Display the Dilated Image
-<br>![image]![download (2)](https://user-images.githubusercontent.com/70016683/235285598-117573ef-bbae-4ab0-a51a-98c5fd3473bf.png)
+<br>![download (2)](https://user-images.githubusercontent.com/70016683/235285598-117573ef-bbae-4ab0-a51a-98c5fd3473bf.png)
 
 
 <br>
