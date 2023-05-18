@@ -42,7 +42,7 @@ import matplotlib.pyplot as plt
 # Create the Text using cv2.putText
 img1 = np.zeros((100,270), dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img1,'aakaash',(5,70), font, 2,(255),5,cv2.LINE_AA)
+cv2.putText(img1,'ARUN KUMAR',(5,70), font, 2,(255),5,cv2.LINE_AA)
 plt.imshow(img1,'gray')
 
 
